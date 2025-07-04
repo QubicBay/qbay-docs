@@ -4,8 +4,15 @@
 
 ## Overview
 
-* [💡 What we do](overview/what-we-do.md)
-* [✨ Our Features](overview/our-features.md)
+* [💡 Project Overview](overview/project-overview.md)
+
+***
+
+* [🛠️ Functionality](functionality/README.md)
+  * [📝 Functions Specifications](functionality/functions-specifications.md)
+  * [🧑 Fee Structure](functionality/fee-structure.md)
+  * [🧑 Shareholder revenues](functionality/shareholder-revenues.md)
+* [💡 Package](package.md)
 
 ## Product Guides
 
@@ -13,10 +20,6 @@
 * [📎 Understanding Projects](product-guides/understanding-projects.md)
 
 ## Fundamentals
-
-* [🛠️ Getting set up](fundamentals/getting-set-up/README.md)
-  * [📝 Setting permissions](fundamentals/getting-set-up/setting-permissions.md)
-  * [🧑 Inviting Members](fundamentals/getting-set-up/inviting-members.md)
 
 ## Use Cases
 
