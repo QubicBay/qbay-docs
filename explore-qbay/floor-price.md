@@ -1,4 +1,4 @@
-# 📎 Understanding Projects
+# 📎 Floor price
 
 ## How Projects work
 
