@@ -1,4 +1,4 @@
-# 🧑 Fee Structure
+# Fee Structure
 
 #### NFT Resale Revenue Distribution
 

@@ -4,15 +4,15 @@
 
 ## Overview
 
-* [💡 Project Overview](overview/project-overview.md)
+* [Project Overview](overview/project-overview.md)
 
 ***
 
-* [🛠️ Functionality](functionality/README.md)
-  * [📝 Functions Specifications](functionality/functions-specifications.md)
-  * [🧑 Fee Structure](functionality/fee-structure.md)
-  * [🧑 Shareholder revenues](functionality/shareholder-revenues.md)
-* [💡 Package](package.md)
+* [Functionality](functionality/README.md)
+  * [Functions Specifications](functionality/functions-specifications.md)
+  * [Fee Structure](functionality/fee-structure.md)
+  * [Shareholder revenues](functionality/shareholder-revenues.md)
+* [Package](package.md)
 
 ## Explore Qbay
 
@@ -27,5 +27,7 @@
   * [Transfer NFTs](explore-qbay/how-to/transfer-nfts.md)
   * [Exchange](explore-qbay/how-to/exchange.md)
   * [Auction](explore-qbay/how-to/auction.md)
-* [📎 Floor price](explore-qbay/floor-price.md)
-* [📎 Getting NFT info](explore-qbay/getting-nft-info.md)
+
+***
+
+* [❓ FAQ](faq.md)

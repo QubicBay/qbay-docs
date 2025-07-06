@@ -1,4 +1,4 @@
-# 📝 Functions Specifications
+# Functions Specifications
 
 The Smart contract contains all the necessary functions expected from a typical NFT Marketplace, which are:
 

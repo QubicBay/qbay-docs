@@ -1,4 +1,4 @@
-# 🛠️ Functionality
+# Functionality
 
 {% content-ref url="functions-specifications.md" %}
 [functions-specifications.md](functions-specifications.md)
