@@ -29,10 +29,3 @@
   * [Auction](explore-qbay/how-to/auction.md)
 * [📎 Floor price](explore-qbay/floor-price.md)
 * [📎 Getting NFT info](explore-qbay/getting-nft-info.md)
-
-## Fundamentals
-
-## Use Cases
-
-* [🎨 For Designers](use-cases/for-designers.md)
-* [🖥️ For Developers](use-cases/for-developers.md)
