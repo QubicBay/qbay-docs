@@ -14,6 +14,6 @@
 
 #### [Transfer NFTs](transfer-nfts.md)
 
-#### [<mark style="background-color:blue;">Exchange NFT</mark>](exchange.md)
+#### [Exchange NFT](exchange.md)
 
-#### [<mark style="background-color:blue;">Auction</mark>](auction.md)
+#### [Auction](auction.md)
