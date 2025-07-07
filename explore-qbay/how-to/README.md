@@ -12,7 +12,7 @@
 
 #### [Sell NFTs](sell-nfts.md)
 
-#### [Transfer NFTs](transfer-nfts.md)
+#### [Transfer NFTs](broken-reference)
 
 #### [Exchange NFT](exchange.md)
 

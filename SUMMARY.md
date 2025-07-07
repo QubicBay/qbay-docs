@@ -24,7 +24,6 @@
   * [List NFTs](explore-qbay/how-to/list-nfts.md)
   * [Buy NFTs](explore-qbay/how-to/buy-nfts.md)
   * [Sell NFTs](explore-qbay/how-to/sell-nfts.md)
-  * [Transfer NFTs](explore-qbay/how-to/transfer-nfts.md)
   * [Exchange](explore-qbay/how-to/exchange.md)
   * [Auction](explore-qbay/how-to/auction.md)
 
