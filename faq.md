@@ -7,10 +7,10 @@ There are different types of fees on the QubicBay Marketplace, and the payment m
 * **Creators** launching a new NFT collection are required to pay the associated minting package fee **exclusively in $CFB**.
 * **Collectors** who wish to mint NFTs from a collection must pay the minting cost **exclusively in $Qubic**.
 * **Resale transactions** offer more flexibility:
-  * Sellers can choose to accept either $**Qubic** or **$CFB** as the payment currency.
-  * On each resale, the Marketplace applies a **3% fee**:
-    * **2%** goes to the Marketplace.
-    * **1%** is distributed to shareholders — **but only if the resale is completed in Qubic**.
+  * In the case of secondary resale, sellers will only be able to accept Qubic.
+  *   In the case of auction, sellers will be able to decide whether to accept $CFB or $Qubic.
+
+
 
 This fee structure ensures a balanced and sustainable ecosystem for creators, collectors, and shareholders alike.
 
