@@ -12,7 +12,7 @@ _To launch a new NFT collection on the QubicBay Marketplace:_
 * Creators are required to purchase a minting package corresponding to the number of NFTs in the collection.&#x20;
 * The cost of the package is determined by the total number of NFTs to be minted.
 
-<table data-full-width="false"><thead><tr><th>Number of NFTs</th><th>Package Price (in $CFB, equivalent to USDT)</th></tr></thead><tbody><tr><td>1,000 NFTs</td><td>200 USDT worth of $QUBIC</td></tr><tr><td>10,000 NFTs</td><td>2000 USDT worth of $QUBIC</td></tr></tbody></table>
+<table data-full-width="false"><thead><tr><th>Number of NFTs</th><th>Package Price (in $CFB, equivalent to USDT)</th></tr></thead><tbody><tr><td>1,000 NFTs</td><td>200 USDT worth of $CFB</td></tr><tr><td>10,000 NFTs</td><td>2000 USDT worth of $CFB</td></tr></tbody></table>
 
 {% columns %}
 {% column width="50%" %}

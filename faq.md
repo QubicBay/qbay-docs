@@ -12,7 +12,7 @@ There are different types of fees on the QubicBay Marketplace, and the payment m
     * **2%** goes to the Marketplace.
     * **1%** is distributed to shareholders — **but only if the resale is completed in Qubic**.
 
-This fee structure ensures a balanced and sustainable ecosystem for creators, collectors, and stakeholders alike.
+This fee structure ensures a balanced and sustainable ecosystem for creators, collectors, and shareholders alike.
 
 ## 💸 <mark style="color:red;">Does the 3% fee apply to all sales or only secondary sales?</mark>
 
